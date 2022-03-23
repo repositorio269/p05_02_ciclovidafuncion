@@ -1,7 +1,11 @@
+import AsideMenu from "./components/AsideMenu";
+import CodeCheck from "./components/CodeCheck";
+
 function App() {
   return (
-    <div>
-      
+    <div className="container">
+      <AsideMenu />
+      <CodeCheck />
     </div>
   );
 }

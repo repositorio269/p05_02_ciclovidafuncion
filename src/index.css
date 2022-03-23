@@ -672,3 +672,11 @@ aside.open form {
 .card .footer-card p:first-child {
     font-weight: bold;
 }
+
+/* Clock */
+
+.clock {
+    font-size: 4rem;
+    color: #008248;
+    text-align: center;
+}
